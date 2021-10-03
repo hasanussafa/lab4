@@ -1,0 +1,21 @@
+{
+  "name": "full_stack_visual_stdio_code",
+  "version": "1.0.0",
+  "description": "Web server example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "nodejs",
+    "modulas"
+  ],
+  "author": "Kazi Hasanus Safa",
+  "license": "ISC",
+  "dependencies": {
+    "nodemone": "^2.0.13"
+  }
+}
